@@ -48,7 +48,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-2C7A7B?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🌐 Portfolio
-[![Portfolio Preview](https://image.thum.io/get/width/1200/fullpage/https://abubokkorshiddik.github.io/Portfolio-AbuBokkorShiddik/)](https://abubokkorshiddik.github.io/Portfolio-AbuBokkorShiddik/)
+[![Portfolio Full](https://image.thum.io/get/width/1200/fullpage/https://abubokkorshiddik.github.io/Portfolio-AbuBokkorShiddik/?t=12345)](https://abubokkorshiddik.github.io/Portfolio-AbuBokkorShiddik/)
 
 👉 Explore here:  
 https://abubokkorshiddik.github.io/Portfolio-AbuBokkorShiddik/
